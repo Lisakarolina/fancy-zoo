@@ -1,0 +1,172 @@
+[
+  {
+    "model": "zooapi.animal",
+    "pk": 1,
+    "fields": {
+      "name": "Tyrannosaurus Rex",
+      "weight": "210.000",
+      "power": "good teeth, massive skull, heavy tail",
+      "extinction_date": 200000
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 2,
+    "fields": {
+      "name": "Apuasy",
+      "weight": "88.000",
+      "power": "can talk",
+      "extinction_date": 1756
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 3,
+    "fields": {
+      "name": "Dodo",
+      "weight": "13.000",
+      "power": "can not fly",
+      "extinction_date": 1750
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 18,
+    "fields": {
+      "name": "Cygnus falconeri",
+      "weight": "876.000",
+      "power": "can withstand extreme temperatures, very strong",
+      "extinction_date": 2300
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 19,
+    "fields": {
+      "name": "Galapogos Tortoise",
+      "weight": "432.000",
+      "power": "knows everything",
+      "extinction_date": 6543
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 20,
+    "fields": {
+      "name": "some animal",
+      "weight": "43.000",
+      "power": "special super power",
+      "extinction_date": null
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 22,
+    "fields": {
+      "name": "Smilodon",
+      "weight": "200.000",
+      "power": "razor-sharp teeth, big jaw gape",
+      "extinction_date": -10000
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 23,
+    "fields": {
+      "name": "Tasmanian Tiger",
+      "weight": "19.000",
+      "power": "looked like both a tiger and a wolf",
+      "extinction_date": 1936
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 24,
+    "fields": {
+      "name": "Moa",
+      "weight": "250.000",
+      "power": "huge, 2-m-high bird",
+      "extinction_date": 1500
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 25,
+    "fields": {
+      "name": "Bee Hummingbird",
+      "weight": "0.003",
+      "power": "beats its wings 80–200 times per second",
+      "extinction_date": 1967
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 26,
+    "fields": {
+      "name": "Grizzly Bear",
+      "weight": "300.000",
+      "power": "hibernates half of the year",
+      "extinction_date": null
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 27,
+    "fields": {
+      "name": "Garter Snake",
+      "weight": "0.700",
+      "power": "male garter snakes sometimes produce both male and female pheromones",
+      "extinction_date": null
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 28,
+    "fields": {
+      "name": "Cassiopea",
+      "weight": "0.030",
+      "power": "must lie upside-down in areas with sufficient light penetration to fuel their energy source",
+      "extinction_date": null
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 29,
+    "fields": {
+      "name": "Budgerigar",
+      "weight": "6.000",
+      "power": "budgerigars can be taught to speak, whistle and play with humans",
+      "extinction_date": null
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 30,
+    "fields": {
+      "name": "Eurasian Lynx",
+      "weight": "20.000",
+      "power": "exceptional hearing",
+      "extinction_date": null
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 32,
+    "fields": {
+      "name": "Rattle snake",
+      "weight": "10.000",
+      "power": "extremely venomous",
+      "extinction_date": null
+    }
+  },
+  {
+    "model": "zooapi.animal",
+    "pk": 34,
+    "fields": {
+      "name": "new beast",
+      "weight": "543.000",
+      "power": "sdfgrgerg4",
+      "extinction_date": -3321
+    }
+  }
+]
