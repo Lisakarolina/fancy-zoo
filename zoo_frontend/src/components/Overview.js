@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { useNavigate, useLocation } from "react-router-dom";
+import { UncontrolledAlert } from 'reactstrap';
 
 function Overview() {
     const {state} = useLocation();
@@ -29,12 +30,9 @@ function Overview() {
   return (
     <div className="container">
         <div id="header"><h1>My Virtual Zoo</h1></div>
-        <div>{hintState && (<div class="alert alert-success alert-dismissible fade show" role="alert">
+        <div>{hintState && (<UncontrolledAlert color="info">
         {`Entry has been ${hintState.hint}!`}
-        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-    <span aria-hidden="true">&times;</span>
-  </button> 
-</div>)}</div>
+</UncontrolledAlert>)}</div>
         <table id="overview-table" class="table table-striped">
   <thead class="thead-dark">
     <tr>
