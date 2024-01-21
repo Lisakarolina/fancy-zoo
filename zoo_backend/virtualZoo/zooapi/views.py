@@ -15,8 +15,3 @@ class AnimalDetail(generics.RetrieveUpdateDestroyAPIView):
 class AnimalCreate(generics.CreateAPIView):
     queryset = Animal.objects.all() 
     serializer_class = ItemSerializer
-
-# ansatz, funktioniert noch nicht
-class AnimalListSortByWeight(generics.ListAPIView):
-    queryset = Animal.objects.all().order_by('weight') 
-    serializer_class = ItemSerializer

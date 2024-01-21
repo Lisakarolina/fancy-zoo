@@ -1,5 +1,5 @@
 from django.urls import path 
-from .views import AnimalList, AnimalDetail, AnimalCreate, AnimalListSortByWeight
+from .views import AnimalList, AnimalDetail, AnimalCreate
 
 name = 'zooapi'
 
